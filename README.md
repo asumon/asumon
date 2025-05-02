@@ -1,7 +1,7 @@
-## Hi there 👋
 
 
-        ✨Certainty brings uncertainty, and uncertainty brings certainty until we have found ourselves in a particular phrase !! ✨  
+       ✨✨Certainty brings uncertainty, and uncertainty brings certainty until we have found ourselves in a particular phrase !! ✨✨
+
 
 # 👋 Welcome to My GitHub Portfolio
 
