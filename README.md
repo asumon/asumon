@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**asumon/asumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**asumon/asumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Welcome to My GitHub Portfolio
+
+ Below is a list of my repositories:
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/DevOps/Terraform 
+  Terraform code to deploy Azure VNet, App Services, Key Vaults.
+
+
+
