@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**asumon/asumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  GitHub profile.
+Some of mine ✨ _special_ ✨ repository because Certainty brings uncertainty, and uncertainty brings certainty !!!
 
 # 👋 Welcome to My GitHub Portfolio
 
