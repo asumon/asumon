@@ -8,8 +8,41 @@
  Below is a list of my repositories:
 
 ## 🔧 Cloud Infrastructure Projects
-- [azure-infra-terraform](https://github.com/DevOps/Terraform 
-  Terraform code to deploy Azure VNet, App Services, Key Vaults.
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform 
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
+## 🔧 Cloud Infrastructure Projects
+- [azure-infra-terraform](https://github.com/Dev-Ops/Terraform
+  Terraform code to deploy Azure VNet, App Services, Key Vaults).
+
 
 
 
