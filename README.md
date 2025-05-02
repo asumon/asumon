@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Some of mine ✨ _special_ ✨ repository because Certainty brings uncertainty, and uncertainty brings certainty !!!
+        ✨Certainty brings uncertainty, and uncertainty brings certainty until we have found ourselves in a particular phrase !! ✨  
 
 # 👋 Welcome to My GitHub Portfolio
 
